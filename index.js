@@ -19,6 +19,6 @@ function scuberGreetingForFeet(someValue) {
     //don't forget to return whatever the result is!
     let result
     if (someValue = NYC){
-      result = 'Ok, sounds good';
+      result = 'Ok, sounds good.';
     }
   }
