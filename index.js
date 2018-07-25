@@ -21,7 +21,10 @@ function scuberGreetingForFeet(someValue) {
     if (cityName == "NYC"){
       result = 'Ok, sounds good.';
     }
+    if (cityName != "NYC"){
+        result = 'No go.';
+      }
     return result
   }
-  
-  
+
+
