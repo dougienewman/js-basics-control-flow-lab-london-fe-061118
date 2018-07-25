@@ -14,11 +14,11 @@ function scuberGreetingForFeet(someValue) {
     return result
   }
   
-    function ternaryCheckCity(someValue) {
+    function ternaryCheckCity(cityName) {
     //this is where we can use conditionals given our argument, someValue
     //don't forget to return whatever the result is!
     let result
-    if (someValue = NYC){
+    if (cityName = NYC){
       result = 'Ok, sounds good.';
     }
   }
