@@ -21,4 +21,5 @@ function scuberGreetingForFeet(someValue) {
     if (cityName == "NYC"){
       result = 'Ok, sounds good.';
     }
+    return result
   }
