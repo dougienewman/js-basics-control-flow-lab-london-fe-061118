@@ -14,7 +14,7 @@ function scuberGreetingForFeet(someValue) {
     return result
   }
   
-    function ternaryCheckCity(cityName) {
+    function switchOnCharmFromTip(cityName) {
     //this is where we can use conditionals given our argument, someValue
     //don't forget to return whatever the result is!
     let result
