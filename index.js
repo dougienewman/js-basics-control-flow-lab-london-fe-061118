@@ -35,10 +35,10 @@ function scuberGreetingForFeet(someValue) {
     if (tipValue == "generous"){
         result = 'Thank you so much.';
     }
-    if (tipValue != "generous"){
+    else if (tipValue != "generous"){
         result = 'Thank you.';
     }   
-    if (tipValue !== "anything else"){
+    else if (tipValue != "anything else"){
         result = 'Bye.';
     }   
 
