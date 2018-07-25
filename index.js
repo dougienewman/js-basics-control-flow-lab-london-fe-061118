@@ -28,3 +28,18 @@ function scuberGreetingForFeet(someValue) {
   }
 
 
+  function switchOnCharmFromTip(tipValue) {
+    //this is where we can use conditionals given our argument, someValue
+    //don't forget to return whatever the result is!
+    let result
+    if (tipValue == "generous"){
+        result = 'Thank you so much.';
+    }
+    return result
+  }
+
+
+
+
+
+
